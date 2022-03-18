@@ -2,9 +2,13 @@
 Nodejs server that streams GIF-encoded data to client and updates timer every second.
 
 To Run:
+
 git clone https://github.com/ElijahCannon/email-countdown.git
+
 cd email-countdown
+
 npm install
+
 npm start
 
 go to localhost:3000/timer
